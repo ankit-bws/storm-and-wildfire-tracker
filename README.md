@@ -1,7 +1,7 @@
-# Wildfire Tracker App
+# Storm and Wildfire Tracker App
 
-* A React App created to track wildfires all around the world.
-* Uses EONET (Earth Observatory Natural Event Tracker) NASA Open API to fetch data about constantly occuring wildfires all around the globe.
+* A React App created to track storms and wildfires all around the world.
+* Uses EONET (Earth Observatory Natural Event Tracker) NASA Open API to fetch data about constantly occuring storms and wildfires all around the globe.
 * Uses packages - google-react-app, @iconify/react and @iconify/icons-mdi.
 
 ## In the project directory, you can run:
